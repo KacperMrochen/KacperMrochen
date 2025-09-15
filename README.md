@@ -24,8 +24,8 @@
 
 ### 🚀 Featured Projects
 
-- [playwright-automation](https://github.com/KacperMrochen/playwright-automation) — My flagship Playwright test automation framework.
-- [selenium](https://github.com/KacperMrochen/selenium) — Selenium-based automation projects.
+- [playwright-typescript](https://github.com/KacperMrochen/playwright-typescript) — My flagship Playwright test automation framework.
+- [selenium-pytest](https://github.com/KacperMrochen/selenium-pytest) — Selenium-based automation projects.
 - [fishing-bot-python](https://github.com/KacperMrochen/fishing-bot-python) — Fun with Python automation!
 
 ---
