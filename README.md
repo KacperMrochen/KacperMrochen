@@ -1,6 +1,6 @@
 # Hi, I'm Kacper, but you can call me Mrochu 👋
 
-**Test Automation Engineer | Front-End Developer | AI Enthusiast**
+**QA Automation Engineer | Playwright, Selenium, TypeScript, Python | ISTQB CTFL | AI Enthusiast**
 
 ---
 
@@ -10,7 +10,7 @@
 - 💻 Skilled in **Python**, **TypeScript**, and frameworks like **Playwright** and **Selenium**.
 - 🎓 ISTQB Certified (Foundation Level).
 - 🧠 Currently a Computer Science student, passionate about the intersection of AI and automation.
-- 🚗 In my free time, I enjoy building scale models—especially cars and boats!
+- 🚗 In my free time, I enjoy building scale models — especially cars and boats!
 
 ---
 
@@ -27,8 +27,6 @@
 - [playwright-automation](https://github.com/KacperMrochen/playwright-automation) — My flagship Playwright test automation framework.
 - [selenium](https://github.com/KacperMrochen/selenium) — Selenium-based automation projects.
 - [fishing-bot-python](https://github.com/KacperMrochen/fishing-bot-python) — Fun with Python automation!
-- [storybook-app](https://github.com/KacperMrochen/storybook-app) — Storybook-powered front-end development.
-- [discord-bot](https://github.com/KacperMrochen/discord-bot) — Bots for Discord automation and moderation.
 
 ---
 
