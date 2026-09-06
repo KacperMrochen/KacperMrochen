@@ -1,44 +1,21 @@
-# Hi, I'm Kacper, but you can call me Mrochu 👋
+## Hi, I'm Kacper 👋
 
-**QA Automation Engineer | Playwright, Selenium, TypeScript, Python | ISTQB CTFL | AI Enthusiast**
+QA & Automation Engineer, expanding into AppSec/DevSecOps.
 
----
+**Stack:** `Playwright` `Selenium` `TypeScript` `Python` `Docker` `GitHub Actions`
+`GitLab CI` `Semgrep` `OWASP ZAP` — ISTQB CTFL certified.
 
-### 👨‍💻 About Me
+More about how I work and why → [portfolio site](https://kacpermrochen.com)
 
-- 🧪 Test Automation Engineer with 2+ years of experience in both testing and front-end development.
-- 💻 Skilled in **Python**, **TypeScript**, and frameworks like **Playwright** and **Selenium**.
-- 🎓 ISTQB Certified (Foundation Level).
-- 🧠 Currently a Computer Science student, passionate about the intersection of AI and automation.
-- 🚗 In my free time, I enjoy building scale models — especially cars and boats!
+### Projects
 
----
+| | |
+|---|---|
+| 🔒 **[security-hardening-pipeline](https://kacpermrochen.com/projects/security-hardening/)** | Secrets detection, dependency scanning, SAST, hardened headers, DAST — added as required checks on a live production pipeline. Header grade F → A. Write-up: [LINK] |
+| 🎭 **[playwright-typescript](https://github.com/KacperMrochen/playwright-typescript)** | UI test framework, Page Object Model, GitHub Actions CI. |
+| 🐍 **[selenium-pytest](https://github.com/KacperMrochen/selenium-pytest)** | Selenium + Pytest framework, POM, Docker-based runs, HTML reporting. |
 
-### 🔎 What I Do
+### Elsewhere
 
-- **End-to-End Test Automation:** Building robust, scalable test suites using Playwright and Selenium.
-- **Front-End Development:** Leveraging automation to streamline UI and UX validation.
-- **AI Exploration:** Always learning, always experimenting with new ways to combine AI and automation.
-
----
-
-### 🚀 Featured Projects
-
-- [playwright-typescript](https://github.com/KacperMrochen/playwright-typescript) — My flagship Playwright test automation framework.
-- [selenium-pytest](https://github.com/KacperMrochen/selenium-pytest) — Selenium-based automation projects.
-- [fishing-bot-python](https://github.com/KacperMrochen/fishing-bot-python) — Fun with Python automation!
-
----
-
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-KacperMrochen-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/kacpermrochen)
-
----
-
-<details>
-<summary>⚡ Fun Facts</summary>
-
-- I love building model cars and boats in my spare time!
-- Forever curious about the ways AI can change the future of testing and development.
-</details>
+[Portfolio](https://kacpermrochen.com) · [LinkedIn](https://www.linkedin.com/in/kacper-mrochen) ·
+[mrochen.kacper@gmail.com](mailto:mrochen.kacper@gmail.com)
